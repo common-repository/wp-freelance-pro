@@ -1,0 +1,8 @@
+Major Media by WPThemes.co.nz
+
+/*************************************************************
+Version 1.1.2
+*************************************************************/
+- Fixed text-wrapping issues on posts with long titles
+- Changed the value of the $content_width to 615
+- Completely removed the html5shiv(html5.js) script
